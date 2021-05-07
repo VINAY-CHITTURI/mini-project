@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-     <title>Machha</title>
+     <title>Macho</title>
      <link rel="stylesheet" href="<?php echo base_url("assets/css/bootstrap.css")?>">
      <link rel="stylesheet" href="<?php echo base_url(); ?>./assets/css/style.css">  
     </head>
